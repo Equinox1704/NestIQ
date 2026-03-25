@@ -44,10 +44,12 @@ npm run build
 ```
 
 ## Project Structure
+```bash
 src/
 ├── components/ # All section components
 ├── App.tsx # Main app entry
 └── main.tsx # React DOM render
+```
 
 ## Purpose
 This is a demo project showcasing landing page 
