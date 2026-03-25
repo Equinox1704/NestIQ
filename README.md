@@ -5,7 +5,7 @@ property listing and rental management platform built for
 the Indian real estate market.
 
 ## Live Demo
-[nestiq-demo.vercel.app](https://nestiq-demo.vercel.app)
+[nest-iq.vercel.app](https://nest-iq.vercel.app)
 
 ## Built With
 - React + TypeScript
