@@ -45,6 +45,8 @@ npm run build
 
 ## Project Structure
 ```bash
+├── api/          
+│   └── chat.js (chatbot)
 src/
 ├── components/ # All section components
 ├── App.tsx # Main app entry
